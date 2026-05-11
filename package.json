@@ -1,7 +1,7 @@
 {
-  "name": "ai-novel-generator",
-  "version": "0.7.0",
-  "description": "AI小说写作工具",
+  "name": "mooling-ai",
+  "version": "1.0.0",
+  "description": "墨灵 - AI 智能小说创作助手",
   "type": "module",
   "scripts": {
     "dev": "vite",
